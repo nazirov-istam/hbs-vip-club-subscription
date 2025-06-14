@@ -1,0 +1,20 @@
+package org.example.grand_education.enums;
+
+public enum Step {
+    START,
+    USER_MAIN,
+    CHANNEL_SUBSCRIPTION,
+    ADMIN_MAIN,
+    ADMIN_SETTINGS,
+    ADMIN_STATISTICS,
+    ADD_VIDEO,
+    ADD_CHANNEL_NAME,
+    ADD_CHANNEL_URL,
+    ADD_CHANNEL_ID,
+    ASK_CONFIRMATION,
+    MANAGER_MAIN,
+    ADD_ADMIN_CHAT_ID,
+    ADD_ADMIN_NAME,
+    DELETE_ADMIN_LIST,
+    DELETE_CHANNEL_LIST,
+}
